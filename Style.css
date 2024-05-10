@@ -32,16 +32,16 @@ textarea{
 
      body{
           margin:0;
-          background-color: #3F2860;
+          background-color: #ffb3f9;
           color:#40407A;
           font-family: Verdana, Arial, sans-serif;
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/sunrise.jpg");
+          background-image: url("images/starrysky.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#FFF;
+          color:#914dc6;
           font-size:120%;
           margin-top: 50px;
           min-height: 200px;
@@ -53,6 +53,7 @@ textarea{
      h1{
           line-height: 200%;
           padding-top: 50px;
+          color: #914dc6;
           padding-left: 2em;
      }
      h2{
@@ -185,16 +186,16 @@ textarea{
 
      body{
           margin:0;
-          background-color: #3F2860;
+          background-color: #ffb3f9;
           color:#40407A;
           font-family: Verdana, Arial, sans-serif;
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/sunrise.jpg");
+          background-image: url("images/starrysky.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#FFF;
+          color:#914dc6;
           font-size:90%;
           margin-top: 50px;
           min-height: 200px;
@@ -313,16 +314,16 @@ textarea{
 @media(max-width:600px){
      body{
           margin:0;
-          background-color: #3F2860;
+          background-color: #ffb3f9;
           color:#40407A;
           font-family: Verdana, Arial, sans-serif;
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/sunrise.jpg");
+          background-image: url("images/starrysky.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#FFF;
+          color:#914dc6;
           font-size:90%;
           margin-top: 50px;
           min-height: 200px;

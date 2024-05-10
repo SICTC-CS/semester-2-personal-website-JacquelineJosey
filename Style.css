@@ -73,7 +73,7 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:link{color:#d3b3ff}                                   /*just sitting here*/
      nav a:visited{color:#23a9de}                                /*after visiting*/
      nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{
@@ -208,7 +208,7 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:link{color:#d3b3ff}                                  /*just sitting here*/
      nav a:visited{color:#23a9de}                                /*after visiting*/
      nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{
@@ -337,7 +337,7 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:link{color:#d3b3ff}                                   /*just sitting here*/
      nav a:visited{color:#23a9de}                                /*after visiting*/
      nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{

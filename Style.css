@@ -38,10 +38,9 @@ textarea{
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/starrysky.jpg");
+          background-image: url("images/moonlitcity.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#914dc6;
           font-size:120%;
           margin-top: 50px;
           min-height: 200px;
@@ -53,7 +52,6 @@ textarea{
      h1{
           line-height: 200%;
           padding-top: 50px;
-          color: #914dc6;
           padding-left: 2em;
      }
      h2{
@@ -67,7 +65,7 @@ textarea{
           padding: .5em;
           padding-right: 0;
           width: 100%;        /*fills up the top of the screen*/
-          background-color: white;
+          background-color: #6e3eb1;
           margin:0;
           z-index:9999;
      }
@@ -109,6 +107,9 @@ textarea{
           color:#40407A;
           font-style: italic;
      }
+     .title{
+          color: #914dc6;
+     }
      .home{                   /*home class applied to header on the index page*/
           height: 50vh;       /*measurement based on device screen size*/
           padding-left: 8em;
@@ -118,6 +119,7 @@ textarea{
           height: 30vh;       /*measurement based on device screen size*/
           padding-left: 8em;
           padding-top: 1em;
+          color:#914dc6;
      }
      /* id section */
      #wrapper{   
@@ -192,10 +194,9 @@ textarea{
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/starrysky.jpg");
+          background-image: url("images/moonlitcity.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#914dc6;
           font-size:90%;
           margin-top: 50px;
           min-height: 200px;
@@ -215,7 +216,7 @@ textarea{
           padding: .5em;
           padding-right: 0;
           width: 100%;        /*fills up the top of the screen*/
-          background-color: white;
+          background-color: #6e3eb1;
           margin:0;
           z-index:9999;
      }
@@ -254,6 +255,9 @@ textarea{
      .studio{  /* class for the name of the studio */
           color:#40407A;
           font-style: italic;
+     }
+     .title{
+          color: #914dc6;
      }
      .home{                   /*home class applied to header on the index page*/
           height: 20vh;       /*measurement based on device screen size*/
@@ -320,10 +324,9 @@ textarea{
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/starrysky.jpg");
+          background-image: url("images/moonlitcity.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
-          color:#914dc6;
           font-size:90%;
           margin-top: 50px;
           min-height: 200px;
@@ -348,7 +351,7 @@ textarea{
           padding: .5em;
           padding-right: 0;
           width: 100%;        /*fills up the top of the screen*/
-          background-color: white;
+          background-color: #6e3eb1;
           margin:0;
           z-index:9999;
      }
@@ -388,6 +391,9 @@ textarea{
           color:#40407A;
           font-style: italic;
      }
+     .title{
+          color: #914dc6;
+     }
      .home{                   /*home class applied to header on the index page*/
           height: 20vh;       /*measurement based on device screen size*/
           padding-left: 10%;
@@ -409,27 +415,6 @@ textarea{
      #desktop{
           display:none;       /*invisible tag*/
      }
-     /*#mathero{
-          background-image: url(images/yogamat.jpg);
-          background-repeat: no-repeat;
-          background-size: cover;
-          display: block;
-          height: 300px;
-          padding-bottom: 1em;
-     }
-     #loungehero{
-          background-image: url(images/yogalounge.jpg);
-          background-repeat: no-repeat;
-          background-size: cover;
-          display: block;
-          height: 300px;
-          padding-bottom: 1em;
-     }
-     #flow{
-          display: flex;
-          flex-wrap: wrap;
-          flex-direction: row;
-     }*/
 }
 
 table{

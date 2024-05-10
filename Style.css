@@ -37,8 +37,7 @@ textarea{
           font-family: Verdana, Arial, sans-serif;
      }
      header{
-          /* background-color: #80CBC4; */
-          background-image: url("images/moonlitcity.jpg");
+          background-image: url("images/nightmoon.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
           font-size:120%;
@@ -46,9 +45,9 @@ textarea{
           min-height: 200px;
           text-align: left;
      }
-     header a:link{text-decoration: none;display:block;color:#FFF;}
-     header a:visited{text-decoration: none;display:block;color:#FFF;}
-     header a:hover{text-decoration: none;display:block;color:#FFF;}
+     header a:link{text-decoration: none;display:block;color:#9396f3;}
+     header a:visited{text-decoration: none;display:block;color:#9396f3;}
+     header a:hover{text-decoration: none;display:block;color:#9396f3;}
      h1{
           line-height: 200%;
           padding-top: 50px;
@@ -74,9 +73,9 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#3F2860}                                   /*just sitting here*/
-     nav a:visited{color:#497777}                                /*after visiting*/
-     nav a:hover{color:#A26100;}                                 /*mouse hover over*/
+     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:visited{color:#23a9de}                                /*after visiting*/
+     nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{
           display: flex;
           flex-wrap: nowrap;       /*nowrap means should be in one line*/
@@ -91,7 +90,7 @@ textarea{
           display:inline;
      }
      footer{
-          background-color: #80CBC4;
+          background-color: #41a9dd;
           font-size: .6em;
           text-align: center;
           font-family: Arial, Helvetica, sans-serif;
@@ -137,29 +136,13 @@ textarea{
      #desktop{
           display:inline;     /*visible tag*/
      }
-     #mathero{
-          background-image: url(images/yogamat.jpg);
-          background-repeat: no-repeat;
-          background-size: cover;
-          display: block;
-          height: 300px;
-          padding-bottom: 1em;
-     }
      #loungehero{
-          background-image: url(images/yogalounge.jpg);
+          background-image: url(images/TitleScrn.png);
           background-repeat: no-repeat;
           background-size: cover;
           display: block;
           height: 300px;
           padding-bottom: 1em;
-     }
-     #storehero{
-          background-image: url("images/store.jpg");
-          background-repeat: no-repeat;
-          background-size: cover;
-          display: block;
-          height:300px;
-          padding-bottom:1em;
      }
      #flow{
           display: flex;
@@ -194,7 +177,7 @@ textarea{
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/moonlitcity.jpg");
+          background-image: url("images/nightmoon.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
           font-size:90%;
@@ -202,9 +185,9 @@ textarea{
           min-height: 200px;
           text-align: left;
      }
-     header a:link{text-decoration: none;display:block;color:#FFF;}
-     header a:visited{text-decoration: none;display:block;color:#FFF;}
-     header a:hover{text-decoration: none;display:block;color:#FFF;}
+     header a:link{text-decoration: none;display:block;color:#9396f3;}
+     header a:visited{text-decoration: none;display:block;color:#9396f3;}
+     header a:hover{text-decoration: none;display:block;color:#9396f3;}
      h2{
           font-size: 200%;
      }
@@ -225,9 +208,9 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#3F2860}                                   /*just sitting here*/
-     nav a:visited{color:#497777}                                /*after visiting*/
-     nav a:hover{color:#A26100;}                                 /*mouse hover over*/
+     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:visited{color:#23a9de}                                /*after visiting*/
+     nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{
           display: flex;
           flex-wrap: nowrap;       /*nowrap means should be in one line*/
@@ -280,29 +263,23 @@ textarea{
      #desktop{
           display:inline;     /*visible tag*/
      }
-     #mathero{
-          background-image: url(images/yogamat.jpg);
-          background-repeat: no-repeat;
-          background-size: cover;
-          display: block;
-          height: 300px;                /*May have to tweak depending on image*/
-          padding-bottom: 1em;
-     }
      #loungehero{
-          background-image: url(images/yogalounge.jpg);
+          background-image: url(images/TitleScrn.png);
           background-repeat: no-repeat;
           background-size: cover;
           display: block;
-          height: 300px;                /*May have to tweak depending on image*/
+          height: 600px;                /*May have to tweak depending on image*/
           padding-bottom: 1em;
      }
-     #storehero{
-          background-image: url("images/store.jpg");
+     #profilepic{
+          background-image: url(images/selfie.jpg);
           background-repeat: no-repeat;
           background-size: cover;
           display: block;
-          height:300px;
-          padding-bottom:1em;
+          height: 200px;                /*May have to tweak depending on image*/
+          width: 200px;
+          padding-bottom: 1em;
+     }
      }
      #flow{
           display: flex;
@@ -324,7 +301,7 @@ textarea{
      }
      header{
           /* background-color: #80CBC4; */
-          background-image: url("images/moonlitcity.jpg");
+          background-image: url("images/hearts-watercolor.jpg");
           background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
           background-color: #40407A;
           font-size:90%;
@@ -332,9 +309,9 @@ textarea{
           min-height: 200px;
           text-align: left;
      }
-     header a:link{text-decoration: none;display:block;color:#FFF;}
-     header a:visited{text-decoration: none;display:block;color:#FFF;}
-     header a:hover{text-decoration: none;display:block;color:#FFF;}
+     header a:link{text-decoration: none;display:block;color:#9396f3;}
+     header a:visited{text-decoration: none;display:block;color:#9396f3;}
+     header a:hover{text-decoration: none;display:block;color:#9396f3;}
      /*h1{
           line-height: 200%;
           padding-top: 50px;
@@ -360,9 +337,9 @@ textarea{
           display: block;
      }
      /*   add styling to the a links when one of these happens   */
-     nav a:link{color:#3F2860}                                   /*just sitting here*/
-     nav a:visited{color:#497777}                                /*after visiting*/
-     nav a:hover{color:#A26100;}                                 /*mouse hover over*/
+     nav a:link{color:#8850d6}                                   /*just sitting here*/
+     nav a:visited{color:#23a9de}                                /*after visiting*/
+     nav a:hover{color:#f9d549;}                                 /*mouse hover over*/
      nav ul{
           display: flex;
           flex-wrap: wrap;
